@@ -1,0 +1,7 @@
+{
+  "name": "AK master",
+  "description": "Premium Color Prediction and Multi-Game platform with real-time wallet synchronization and advanced admin controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
